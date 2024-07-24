@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "authentication-nandi",
+  "private_key_id": "5e1d44c724ddd46cd4775de6fe07cd37de135a5d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcSt36LWXMB+TX\nSuxLIsqTb/agK/kTj+1kC2O5ML6UvW1rGEIrc/Tm4QUdvfvAT6rBBMZvlZv5iriS\nI0rcJYhqGztPb5ICp8z25DWmV5Q7t6nScn6Sih8MG5ie4PU8M8n4zCn5uiWNy9xh\n0gZ6nQo507PQ74ytfhQ38G2WM28vRU7ALOutiHjfIwLNehryD5jFdiYYmxnZDv2g\nsDo6vEmb9YklBRU9oHl9VhgKkO+ZxAEs2HejLknJsKULgBtXE7loXOQSTR6tEQXt\nMfGDP/XvppfflheepM0EoRzPMcmzVolOMweENqfKM9kyAcy2gE62lxM1I/HRA9XE\ns67GbrKpAgMBAAECggEAAkd+OryIQEQ6NGCRlxvsB9/pYRcbFAu0itG2s9fv45Pq\noVXyexc/ElHkRPWFEx4mT5fN/Akaw/YfsHPmztSWS3PXttYZ80N2tAAKf0FGNmO8\njIbibSkqAD9zx5dgxC6+KoxxrURncUywi1Wohge9wy+g7vJbYxlUWqd9NaRM4gvT\nHu1OuOGrhDz6wyasbEWEWG0uXx6E70GbEJVEEPsncknVi/AOdGbhU3cZB7lR/Z3X\nAhkEAHRUvys5YrfL8Rq4R7JflAsyB5t23fzxIv1qiDm9HB5XS9c+03FoIMGxuhlm\nr2ukpadJ4a18Yjwl2kEvW5iFKzfInejnhHkWARm/oQKBgQDM9pOZyaVjEcV2vOMy\naZjILQXKZwCDvNbLBt+YBNYU5cwIUUWCKmORMd8zpYCx4LVjLden+csWu/oyX+M6\n6XoarCQ1tTr6FYPl7PnjtSTr4bZlPVd+2r8YTrsJjmMsDq9jHBVH9+QnmFoFe55M\nwHr6TZQtcwDIxeB3RC2oDgv+GQKBgQDDNcN3eQr0nPO+ybFWxOGF0BQAz7MUmMKX\nZY/oQTlTmNL2z29hquL7Wo0xLqmYm9bv+cYO0N+hRl8L5cFDBjuRXW1w+wfPmgfO\n69iqP8t7LyV6QW3UHOFPApN9nSFAr80szlH2HE9pPEQDmVF2nL+5lU5+tI56wO/2\nAWZb2O3LEQKBgQCbd+GnwmOYDQ/aLBat05lXJYeB6rViN+g5YkJR/kEg4tnr6TGv\nNVYG+WxTsZM32bncvBYbzQb2fKmgcklbE2RSPQbOUmSk85Lz4df+mBWkcrY2ftwS\nVfyjhHytF/sznQP+Snv99hNy0UZfaFA/6bSejh/6hYQvxqCn9ugm1FjWaQKBgEO+\n7M8RmtO5hH250WmjegDObaK6chO70Axqmr6npBV2+//bjXP/sjY4/rcK0qC7tKQj\nsrCBnJqDqYife6qfBx0zpz+GXveVJRCSmOa8rQlbG06KVms+epLI+hal6Vxhpnre\nP2OB/60t1QzKsJLRY1gskMk4MBo5yw08/yDw79WBAoGAWBaXQlTbhrnqCkhdYno3\n5Tp0qz5N1XjchRiO9AMgwNt3gzbw1C+0Is93KD9HRZQRLtthmpTMQ/MefSR3+1b6\nOmpSUdqhVieVCOXZ0JOkjiXAkPHU1DhRGEneOxIKh0AUw6MHUU331cPMckIDgJWa\nRtzj7Hkyxf+zNYWT/lowe+E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "demo-drive@authentication-nandi.iam.gserviceaccount.com",
+  "client_id": "113190369335033883802",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-drive%40authentication-nandi.iam.gserviceaccount.com"
+}

@@ -1,0 +1,17 @@
+2024-07-24 11:03:02 info: Trucklink Dev service Listening on port 3000
+2024-07-24 11:03:03 info: Connected to database!
+2024-07-24 11:03:18 info: [0mOPTIONS /prod/v1/logout/66a090ae6da7f93f3c90039d [32m204[0m 0.936 ms - 0[0m
+2024-07-24 11:03:18 info: [0mPUT /prod/v1/logout/66a090ae6da7f93f3c90039d [32m201[0m 80.854 ms - 328[0m
+2024-07-24 11:05:03 info: [0mOPTIONS /prod/v1/login [32m204[0m 0.187 ms - 0[0m
+2024-07-24 11:05:03 info: [0mPOST /prod/v1/login [32m201[0m 109.694 ms - 1017[0m
+2024-07-24 11:05:03 info: [0mGET /prod/v1/get-owner-bank-details?page=1&limit=50&hubId=66541b73a74686d081580179 [32m201[0m 24.043 ms - 13238[0m
+2024-07-24 11:10:21 info: [0mOPTIONS /prod/v1/logout/66a0928706b5d617f8d06b80 [32m204[0m 0.117 ms - 0[0m
+2024-07-24 11:10:21 info: [0mPUT /prod/v1/logout/66a0928706b5d617f8d06b80 [32m201[0m 74.432 ms - 328[0m
+2024-07-24 11:10:25 info: [0mGET / [32m200[0m 0.154 ms - -[0m
+2024-07-24 11:10:25 info: [0mGET /favicon.ico [33m404[0m 1.522 ms - 150[0m
+2024-07-24 11:12:09 info: [0mOPTIONS /prod/v1/login [32m204[0m 0.095 ms - 0[0m
+2024-07-24 11:12:09 info: [0mPOST /prod/v1/login [32m201[0m 76.805 ms - 1017[0m
+2024-07-24 11:12:09 info: [0mGET /prod/v1/get-owner-bank-details?page=1&limit=50&hubId=66541b73a74686d081580179 [32m201[0m 25.256 ms - 13238[0m
+2024-07-24 11:12:18 info: [0mGET /prod/v1/get-vehicle-details?page=1&limit=50 [32m201[0m 24.390 ms - 16420[0m
+2024-07-24 11:12:24 info: [0mGET /prod/v1/get-owner-bank-details?page=1&limit=50&hubId=66541b73a74686d081580179 [32m201[0m 27.439 ms - 13238[0m
+2024-07-24 11:12:26 info: [0mGET /prod/v1/get-owner-bank-details?searchOwnerName=ABCD1234&page=1&limit=50&hubId=66541b73a74686d081580179 [32m201[0m 20.297 ms - 71[0m
